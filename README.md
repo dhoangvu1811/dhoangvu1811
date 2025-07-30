@@ -56,9 +56,8 @@
 <h2 align="center">� GitHub Streak Stats 🔥</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoangvu1811&theme=dark" alt="DHVuxDev" />
+  <img src="https://github-readme-streak-stats-lyart-mu.vercel.app?user=dhoangvu1811&theme=dark&mode=weekly" alt="DHVuxDev" />
 </div>
-
 <br>
 <h2 align="center">� Where to find me 👽</h2>
 <br>

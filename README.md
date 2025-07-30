@@ -56,7 +56,7 @@
 <h2 align="center">� GitHub Streak Stats 🔥</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoangvu1811&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoangvu1811&theme=dark" alt="DHVuxDev" />
 </div>
 
 <br>
